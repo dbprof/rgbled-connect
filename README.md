@@ -15,7 +15,7 @@
 В случае если подаем "-" на две ножки, то получаем смешанные цвета
 
 Схема подключения:
-![Схема подключения](https://github.com/dbprof/rgbled-connect/blob/master/schema.png)
+![Схема подключения](https://github.com/dbprof/rgbled-connect/blob/master/3colourled.png)
 
 Видео показ работы:
 [![Видео](https://github.com/dbprof/rgbled-connect/blob/master/video.png)](https://youtu.be/LrNvRMEFhTk)
